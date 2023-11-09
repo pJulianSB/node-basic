@@ -8,3 +8,7 @@ const car = {
     year: 2024,
 }
 
+const moto = {
+    branch: "Yamaha",
+    year: 2023,
+}
